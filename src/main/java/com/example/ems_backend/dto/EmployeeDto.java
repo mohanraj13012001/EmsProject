@@ -1,9 +1,7 @@
 package com.example.ems_backend.dto;
 
-import lombok.*;
 
 
-@Data
 public class EmployeeDto {
 
     private Long id;

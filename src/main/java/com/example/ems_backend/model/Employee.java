@@ -1,7 +1,7 @@
 package com.example.ems_backend.model;
 
 import jakarta.persistence.*;
-import lombok.*;
+
 
 @Entity
 @Table(name="employee")
